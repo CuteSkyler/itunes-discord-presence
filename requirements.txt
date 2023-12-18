@@ -1,0 +1,2 @@
+npm i discord-rpc-revamp
+npm i itunes-bridge

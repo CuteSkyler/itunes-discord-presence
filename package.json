@@ -1,0 +1,17 @@
+{
+  "name": "itunesdiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc-revamp": "^2.0.3",
+    "discord.js": "^13.17.1",
+    "itunes-bridge": "^0.6.7"
+  }
+}
